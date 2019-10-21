@@ -1,3 +1,3 @@
 # fonts
 
-Mostly monospaced
+A collection of interesting / useful fonts, mostly for text editing
