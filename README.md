@@ -1,3 +1,3 @@
 # fonts
 
-A collection of interesting / useful fonts, mostly for text editing
+Currently using Ubuntu Mono, almost everywhere
